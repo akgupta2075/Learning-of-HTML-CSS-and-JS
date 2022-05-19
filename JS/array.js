@@ -57,3 +57,13 @@ console.log(array2d);
 console.table(array2d);
 console.log(array2d[1][2]);
 
+console.log(array2d[1][7]);    //undefined 
+console.log(array2d.length());    //it gives the number of rows in a 2d arrays
+console.log(array2d[0].length());  // it gives the number of columns in a 2d arrays
+console.log(array2d[1].length());
+
+
+
+//memory allocation in 2d arrays
+//2d arrays me value kaishe dale
+//directory
