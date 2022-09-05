@@ -45,9 +45,9 @@ function calculator(str,a,b)
 
     }
 }
-let returnFun=calculate('add',2,3);
+let returnFun=calculator('add',2,3);
 console.log("Returned function is\n"+returnFun); //function print hoga
-returnFun()     //
+//returnFun()     //
 
 
 
