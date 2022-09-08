@@ -9,8 +9,10 @@ var ans2=cube(10)
 var ans3=cube()
 
 
-console.log(ans1)
+console.log(ans1) 
 console.log(ans2)
 console.log(ans3)
 console.log(cube)
 console.log(""+ cube)
+
+
